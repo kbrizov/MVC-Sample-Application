@@ -1,8 +1,8 @@
+using System;
+using System.Data.Entity.Migrations;
+
 namespace ApplicationMVC.Data.Migrations
 {
-    using System;
-    using System.Data.Entity.Migrations;
-
     // This class was created by typing "Add-Migration InitialCreate" in the Package Manager Console. It can be modified if needed.
     public partial class InitialCreate : DbMigration
     {
