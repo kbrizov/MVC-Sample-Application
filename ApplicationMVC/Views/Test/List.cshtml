@@ -1,0 +1,28 @@
+﻿@model IEnumerable<TestModel>
+
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+
+@using (Ajax.BeginForm(new AjaxOptions()
+{
+    HttpMethod = "get",
+    InsertionMode = InsertionMode.Replace,
+    UpdateTargetId = "test-items-list"
+}))
+{
+    <input type="search" name="term" data-test-autocomplete="@Url.Action("Autocomplete")")/>
+    <input type="submit" value="Search" class="btn btn-default" />
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table id="test-items-list" class="table" data-action-url="@Url.Action("List")">
+    @Html.Partial("_TestItemsList", Model)
+</table>
+
+<div id="load-items-button" class="btn btn-default">Load Items</div>

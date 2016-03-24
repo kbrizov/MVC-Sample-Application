@@ -1,0 +1,17 @@
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\ApplicationMVC.Data.dll.config
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\ApplicationMVC.Data.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\ApplicationMVC.Data.pdb
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\ApplicationMVC.EntityModels.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\EntityFramework.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\ApplicationMVC.EntityModels.pdb
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\EntityFramework.xml
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\obj\Debug\ApplicationMVC.Data.csprojResolveAssemblyReference.cache
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\obj\Debug\ApplicationMVC.Data.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\obj\Debug\ApplicationMVC.Data.pdb
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\System.Web.Mvc.dll
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\bin\Debug\System.Web.Mvc.xml
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\obj\Debug\ApplicationMVC.Data.Migrations.InitialCreate.resources
+D:\Web Projects\TutorialApplicationMVC\ApplicationMVC.Data\obj\Debug\ApplicationMVC.Data.csproj.GenerateResource.Cache
